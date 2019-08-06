@@ -88,7 +88,7 @@ img {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 3rem;
-    align-items: center;
+    align-items: end;
     justify-content: center;
 }
 
